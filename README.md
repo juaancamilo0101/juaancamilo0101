@@ -10,7 +10,7 @@ Ingeniero de software colombiano residente en España. Experiencia en desarrollo
 
 💬 ¡Abierto a nuevas oportunidades y desafíos en el mundo del desarrollo de software!
 
-🙋‍♂️ Todo sobre mi está en **[My Website](https://juaancamilo82.github.io/portafolio/)**
+🙋‍♂️ Todo sobre mi está en **[My Website](https://juaancamilo0101.github.io/Portafolio/)**
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juancamilopeñamarin)
